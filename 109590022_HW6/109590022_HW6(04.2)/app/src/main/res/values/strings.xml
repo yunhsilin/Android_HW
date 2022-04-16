@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">109590022_HW6(04.2)</string>
+    <string name="chocolate_syrup">Chocolate syrup</string>
+    <string name="sprinkles">Sprinkles</string>
+    <string name="crushed_nuts">Crushed nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="orio_cookie_crumbles">orio cookie crumbles</string>
+    <string name="show_toast">Show Toast</string>
+    <string name="toppings">Toppings</string>
+</resources>

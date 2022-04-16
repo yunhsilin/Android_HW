@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/USER/AndroidStudioProjects/109590022_HW7/109590022_HW7(04.4)/109590022_HW7(04.4)/app/src/main/res/layout/activity_second.xml" value="0.24947916666666667" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1395" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/layout/activity_fourth.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/layout/activity_second.xml" value="0.12107396149949341" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/layout/activity_third.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/layout/content_fourth.xml" value="0.12107396149949341" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/layout/content_second.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/layout/content_third.xml" value="0.1" />
+        <entry key="..\:/Users/USER/AndroidStudioProjects/OrderNavigation/app/src/main/res/menu/menu_main.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
