@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">109590022_HW8(05.1)</string>
+    <string name="battery_level">Battery level</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="minus_button_description">Minus Button</string>
+    <string name="plus_button_description">Plus Button</string>
+</resources>
